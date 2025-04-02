@@ -1,0 +1,26 @@
+body{
+    background: rgba(0, 0, 0, 0.361);
+    color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+}
+ol{
+    color: rgb(255, 255, 255);
+}
+
+p{
+    color: rgb(26, 18, 20);
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: aqua;
+
+}
+img{
+    width: 50%; /*largeur*/
+    height: 50%; /*longeur*/
+    object-fit: cover;
+}
