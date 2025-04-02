@@ -21,6 +21,6 @@ a{
 }
 img{
     width: 50%; /*largeur*/
-    height: 50%; /*longeur*/
+    height: 35%; /*longeur*/
     object-fit: cover;
 }
